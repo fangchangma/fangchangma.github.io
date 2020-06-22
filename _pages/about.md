@@ -1,21 +1,23 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+# title: "About Me"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a research scientist on the AR/VR team (Seattle) at Apple AI/ML. I finished my Ph.D. in Autonomous Systems at Massachusetts Institute of Technolgoy in 2019, advised by [Prof. Sertac Karaman](http://sertac.scripts.mit.edu/web/). Prior to that, I obtained my bachelor's degree in Computer Engineering from [Hong Kong University of Science and Technology](http://www.ust.hk/) in 2013.
+I am a research scientist on the AR/VR team (Seattle) at Apple AI/ML. My research interest lies in computer vision, machine learning, robotics, and AR/VR. In particular, my research focus is on 3D reconstruction and depth estimation.
 
-My research interest lies in computer vision, machine learning, robotics, and AR/VR. In particular, my research focus is on 3D reconstruction and depth estimation.
-
-
-Publications
+<a href="#bio">Bio</a>
 ======
-**Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera**. <br/>
+I finished my Ph.D. in Autonomous Systems at Massachusetts Institute of Technolgoy in 2019, advised by [Prof. Sertac Karaman](http://sertac.scripts.mit.edu/web/). Prior to that, I obtained my bachelor's degree in Computer Engineering from [Hong Kong University of Science and Technology](http://www.ust.hk/) in 2013.
+
+
+<a href="#publications">Publications</a>
+======
+**Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera** <br/>
 ICRA 2019 <br/> 
 *Fangchang Ma, Guilherme Venturelli Cavalheiro, Sertac Karaman* <br/>
 [[Paper]](https://arxiv.org/pdf/1807.00275.pdf) [[Pytorch Code]](https://github.com/fangchangma/self-supervised-depth-completion) [[Video]](https://youtu.be/bGXfvF261pc)
@@ -52,3 +54,8 @@ Workshop on the Algorithmic Foundations of Robotics (WAFR), 2014 <br/>
 **Velocity estimator via fusing inertial measurements and multiple feature correspondences from a single camera** <br/>
 International Conference on Robotics and Biomimetics (ROBIO), 2013 <br/> 
 *Guyue Zhou, Fangchang Ma, Zexiang Li, Tao Wang* <br/>
+
+<a href="#service">Academic Service</a>
+======
+**Conference Reviewing**: [NeurIPS](https://nips.cc/), [ICRA](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), [IROS](http://www.iros.org/) <br/> 
+**Journal Reviewing**: [PAMI](https://www.computer.org/csdl/journal/tp), [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters), [IJRR](https://journals.sagepub.com/home/ijr), [RA-L](http://www.ieee-ras.org/publications/ra-l), [RAM](http://www.ieee-ras.org/publications/ram), [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/), [Unmanned Systems](https://www.worldscientific.com/worldscinet/us) <br/> 
