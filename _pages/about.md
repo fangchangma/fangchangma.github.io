@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist on the AR/VR team (Seattle) at Apple AI/ML. My research interest lies in computer vision, machine learning, robotics, and AR/VR. In particular, my research focus is on 3D reconstruction and depth estimation.
+I am a research scientist on the 3D machine learning team under Apple AI/ML (Seattle). My research interest lies in computer vision, machine learning, robotics, and AR/VR. In particular, my current research focus is on 3D reconstruction and depth estimation.
 
 [Bio](#bio)
 ======
-I finished my Ph.D. in Autonomous Systems at Massachusetts Institute of Technolgoy in 2019, advised by [Prof. Sertac Karaman](http://sertac.scripts.mit.edu/web/). Prior to that, I obtained my bachelor's degree in Computer Engineering from Hong Kong University of Science and Technology in 2013.
+I finished my Ph.D. in Autonomous Systems at Massachusetts Institute of Technolgoy in 2019, advised by [Prof. Sertac Karaman](http://sertac.scripts.mit.edu/web/). My thesis was on *Algorithms for Single-View Depth Image Estimation*. 
+
+Prior to that, I obtained my bachelor's degree in Computer Engineering from Hong Kong University of Science and Technology in 2013.
 
 
 [Publications](#publications)
