@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist on the 3D machine learning team under Apple AI/ML (Seattle). My research interest lies in computer vision, machine learning, robotics, and AR/VR. In particular, my current research focus is on 3D reconstruction and depth estimation.
+I am a research scientist at Apple (Seattle). I am broadly interested in computer vision, machine learning, and applications in AR/VR. Some of the research topics I've worked on include neural rendering, depth estimation, generative neural networks, and self-supervised learning.
+
+If you have a strong background in computer vision / machine learning / computer graphics and are looking for exciting opportunities (either internship or full-time) at Apple, feel free to reach out.
+
 
 [Bio](#bio)
 ======
