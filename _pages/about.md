@@ -8,18 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at Apple (Seattle). I am broadly interested in computer vision, machine learning, and applications in AR/VR. Some of the research topics I've worked on include neural rendering, depth estimation, generative neural networks, and self-supervised learning.
+<!-- [Bio](#bio)
+====== -->
+I am a senior research scientist at Apple (Seattle). I work on 3D reconstruction and real-time rendering for AR/VR applications, and more broadly computer vision, machine learning. Some of the research topics I've worked on include neural rendering, depth estimation, generative neural networks, and self-supervised learning.
 
-If you have a strong background in computer vision / machine learning / computer graphics and are looking for exciting opportunities (either internship or full-time) at Apple, feel free to reach out.
-
-
-[Bio](#bio)
-======
-I finished my Ph.D. in Autonomous Systems at Massachusetts Institute of Technolgoy in 2019, advised by [Prof. Sertac Karaman](http://sertac.scripts.mit.edu/web/). My thesis was on *Algorithms for Single-View Depth Image Estimation*. Prior to that, I obtained my bachelor's degree in Computer Engineering from Hong Kong University of Science and Technology in 2013.
+I finished my Ph.D. in Autonomous Systems at Massachusetts Institute of Technology in 2019. Prior to that, I obtained my bachelor's degree in Computer Engineering from Hong Kong University of Science and Technology in 2013.
 
 
 [Publications](#publications)
 ======
+<table>
+  <div style="width: 25%; float: left"> 
+    <a href="https://youtu.be/HbsUU0YODqE">
+      <img src="images/2021-iccv-retrievalfuse.jpg" style="max-width: 90%"/>
+    </a>
+  </div>
+  <div style="margin-left: 25%"> 
+    <b>RetrievalFuse: Neural 3D Scene Reconstruction with a Database</b>
+    <br>Yawar Siddiqui, Justus Thies, ‪<u>Fangchang Ma</u>, ‪Qi Shan, Matthias Nießner, Angela Dai
+    <br> ICCV 2021
+      <a href="https://arxiv.org/abs/2104.00024">[pdf]</a>
+      <!-- <a href="https://github.com/fangchangma/self-supervised-depth-completion">[code]</a> -->
+      <a href="https://youtu.be/HbsUU0YODqE">[video]</a>
+  </div>
+</table>
+
 <table>
   <div style="width: 25%; float: left"> 
     <a href="https://youtu.be/bGXfvF261pc">
@@ -126,5 +139,5 @@ I finished my Ph.D. in Autonomous Systems at Massachusetts Institute of Technolg
 
 [Service](#service)
 ======
-**Conference Reviewing**: [NeurIPS](https://nips.cc/), [ICRA](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), [IROS](http://www.iros.org/) <br/> 
-**Journal Reviewing**: [PAMI](https://www.computer.org/csdl/journal/tp), [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters), [IJRR](https://journals.sagepub.com/home/ijr), [RA-L](http://www.ieee-ras.org/publications/ra-l), [RAM](http://www.ieee-ras.org/publications/ram), [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/), [Unmanned Systems](https://www.worldscientific.com/worldscinet/us) <br/> 
+**Conference Reviewer**: [NeurIPS](https://nips.cc/), [ICLR](https://iclr.cc/), [ICRA](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra), [IROS](http://www.iros.org/) <br/> 
+**Journal Reviewer**: [TPAMI](https://www.computer.org/csdl/journal/tp), [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters), [IJRR](https://journals.sagepub.com/home/ijr), [RA-L](http://www.ieee-ras.org/publications/ra-l), [RAM](http://www.ieee-ras.org/publications/ram), [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/), [Unmanned Systems](https://www.worldscientific.com/worldscinet/us) <br/> 
