@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "About Me"
+title: "Fangchang Ma"
 # excerpt: "About me"
 author_profile: true
 # redirect_from: 
@@ -9,14 +9,13 @@ author_profile: true
 ---
 
 
-<!-- [About Me](#about)
-====== -->
-I am a senior research scientist and manager at Apple (Seattle). I lead an CV/ML applied research team, with a focus on neural rendering for AR/VR applications. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
+
+<!-- <h3>About Me</h3> -->
+I am a senior research scientist and manager at Apple (Seattle). I lead a CV/ML applied research team, with a focus on neural rendering for AR/VR applications. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
 
 Our team at Apple is actively hiring both research interns and fulltime research scientists. If you have a strong technical background and publication record in CV/ML/graphics, please feel free to reach out. 
 
-[Research](#research)
-======
+<h2>Research</h2>
 I'm broadly interested in computer vision, machine learning, and computer graphics. Much of my research is about neural rendering, 3D reconstruction, and generative models.
 
 <table style="border-collapse: collapse; border: none;">
