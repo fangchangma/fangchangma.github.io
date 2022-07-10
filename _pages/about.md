@@ -12,6 +12,7 @@ redirect_from:
 ====== -->
 I am a senior research scientist and manager at Apple (Seattle). I lead an CV/ML applied research team, with a focus on neural rendering for AR/VR applications. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
 
+Our team at Apple is actively hiring both research interns and fulltime research scientists. If you have a strong technical background and publication record in CV/ML/graphics, please feel free to reach out. 
 
 [Research](#research)
 ======
