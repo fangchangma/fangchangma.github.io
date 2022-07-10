@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fangchang Ma"
+# title: "Fangchang Ma"
 # excerpt: "About me"
 author_profile: true
 # redirect_from: 
