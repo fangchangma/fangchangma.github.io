@@ -27,7 +27,11 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <a href="">Generative Multiplane Images: Making a 2D GAN 3D-Aware</a>
       <br>Xiaoming Zhao, ‪<u>Fangchang Ma</u>, David Güera, Zhile Ren, Alexander Schwing, Alex Colburn
       <br> ECCV, 2022 <font color="red"><strong>(Oral Presentation)</strong></font>
-      <br> (paper/code coming soon)
+      <br> 
+      <a href="https://arxiv.org/abs/2207.10642">[pdf]</a>
+      <a href="https://github.com/apple/ml-gmpi">[code]</a>
+      <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
+      <a href="https://xiaoming-zhao.github.io/projects/gmpi/">[webpage]</a>
     </td>
   </tr>
 
