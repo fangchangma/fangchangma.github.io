@@ -24,7 +24,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <img src="images/2022-eccv-gmpi.png" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="">Generative Multiplane Images: Making a 2D GAN 3D-Aware</a>
+      <a href="https://xiaoming-zhao.github.io/projects/gmpi/">Generative Multiplane Images: Making a 2D GAN 3D-Aware</a>
       <br>Xiaoming Zhao, ‪<u>Fangchang Ma</u>, David Güera, Zhile Ren, Alexander Schwing, Alex Colburn
       <br> ECCV, 2022 <font color="red"><strong>(Oral Presentation)</strong></font>
       <br> 
@@ -40,7 +40,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <img src="images/2022-eccv-texturify.png" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://arxiv.org/abs/2204.02411">Texturify: Generating Textures on 3D Shape Surfaces</a>
+      <a href="https://nihalsid.github.io/texturify/">Texturify: Generating Textures on 3D Shape Surfaces</a>
       <br>Yawar Siddiqui, Justus Thies, ‪<u>Fangchang Ma</u>, ‪Qi Shan, Matthias Nießner, Angela Dai
       <br> ECCV, 2022
       <br>
@@ -56,7 +56,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <img src="images/2021-iccv-retrievalfuse.jpg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://arxiv.org/abs/2104.00024">RetrievalFuse: Neural 3D Scene Reconstruction with a Database</a>
+      <a href="https://nihalsid.github.io/retrieval-fuse/">RetrievalFuse: Neural 3D Scene Reconstruction with a Database</a>
       <br>Yawar Siddiqui, Justus Thies, ‪<u>Fangchang Ma</u>, ‪Qi Shan, Matthias Nießner, Angela Dai
       <br> ICCV, 2021
       <br>
@@ -87,7 +87,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <img src="images/2019-icra-fastdepth.png" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="http://fastdepth.mit.edu/2019_icra_fastdepth.pdf">FastDepth: Fast Monocular Depth Estimation on Embedded Systems</a>
+      <a href="http://fastdepth.mit.edu/">FastDepth: Fast Monocular Depth Estimation on Embedded Systems</a>
       <br>Diana Wofk*, <u>Fangchang Ma*</u>, Tien-Ju Yang, Sertac Karaman, Vivienne Sze
       <br> ICRA, 2019
       <br>
