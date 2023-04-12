@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem 'jekyll', "< 3.9.2"  # This line was added in order to pin jekyll to a stable version (it is broken >= 3.9.2).
+gem 'jekyll' #, "< 3.9.2"  # This line was added in order to pin jekyll to a stable version (it is broken >= 3.9.2).
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
@@ -17,7 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm" #, "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -27,4 +27,5 @@ group :jekyll_plugins do
   gem 'hawkins'
 end
 
-gem "webrick", "~> 1.7"
+gem "webrick" #, "~> 1.7"
+gem "liquid", "~> 4.0.4"
