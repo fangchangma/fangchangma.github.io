@@ -11,14 +11,48 @@ author_profile: true
 
 
 <!-- <h3>About Me</h3> -->
-I am a senior research scientist and manager at Apple (Seattle). I lead a CV/ML applied research team, with a focus on neural rendering for AR/VR applications. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
+I am a research scientist and manager at Apple (Seattle). I lead a CV/ML applied research team, with a focus on neural rendering and 3D generative modeling for AR/VR applications. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
 
-Our team at Apple is actively hiring both research interns and fulltime research scientists. If you have a strong technical background and publication record in CV/ML/graphics, please feel free to reach out. 
+<!-- Our team at Apple is actively hiring both research interns and fulltime research scientists. If you have a strong technical background and publication record in CV/ML/graphics, please feel free to reach out.  -->
 
 <h2>Research</h2>
 I'm broadly interested in computer vision, machine learning, and computer graphics. Much of my research is about neural rendering, 3D reconstruction, and generative models.
 
 <table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2023-hyperdiffusion.png" style=" vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://ziyaerkoc.com/hyperdiffusion/">HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion</a>
+      <br>Ziya Erkoç, ‪<u>Fangchang Ma</u>, Qi Shan, Matthias Nießner, Angela Dai
+      <br> arXiv, 2023
+      <br> 
+      <a href="https://arxiv.org/abs/2303.17015">[pdf]</a>
+      <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
+      <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
+      <a href="https://ziyaerkoc.com/hyperdiffusion/">[webpage]</a>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2023-finerecon.jpg" style=" vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <!-- <a href="https://xiaoming-zhao.github.io/projects/gmpi/"> -->
+      FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction
+      <!-- </a> -->
+      <br>Noah Stier, Anurag Ranjan, Alex Colburn, Yajie Yan, Liang Yang, ‪<u>Fangchang Ma</u>, Baptiste Angles
+      <br> arXiv, 2023
+      <br> 
+      <a href="https://arxiv.org/abs/2304.01480">[pdf]</a>
+      <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
+      <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
+      <!-- <a href="https://xiaoming-zhao.github.io/projects/gmpi/">[webpage]</a> -->
+    </td>
+  </tr>
+
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2022-eccv-gmpi.png" style=" vertical-align:middle"/>
