@@ -3,14 +3,13 @@ permalink: /
 # title: "Fangchang Ma"
 # excerpt: "About me"
 author_profile: true
-# redirect_from: 
+# redirect_from:
 #   - /about/
 #   - /about.html
 ---
 
-
-
 <!-- <h3>About Me</h3> -->
+
 I am a research scientist and manager at Apple (Seattle). I lead a CV/ML applied research team, with a focus on neural rendering and 3D generative modeling for AR/VR applications. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
 
 <!-- Our team at Apple is actively hiring both research interns and fulltime research scientists. If you have a strong technical background and publication record in CV/ML/graphics, please feel free to reach out.  -->
@@ -26,7 +25,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
     <td style="align-items:center; border: none;">
       <a href="https://ziyaerkoc.com/hyperdiffusion/">HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion</a>
       <br>Ziya Erkoç, ‪<u>Fangchang Ma</u>, Qi Shan, Matthias Nießner, Angela Dai
-      <br> arXiv, 2023
+      <br> ICCV, 2023
       <br> 
       <a href="https://arxiv.org/abs/2303.17015">[pdf]</a>
       <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
@@ -44,7 +43,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction
       <!-- </a> -->
       <br>Noah Stier, Anurag Ranjan, Alex Colburn, Yajie Yan, Liang Yang, ‪<u>Fangchang Ma</u>, Baptiste Angles
-      <br> arXiv, 2023
+      <br> ICCV, 2023
       <br> 
       <a href="https://arxiv.org/abs/2304.01480">[pdf]</a>
       <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
@@ -130,7 +129,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <a href="https://youtu.be/gRqrYJWyXyI">[video]</a>
       <a href="http://fastdepth.mit.edu/">[webpage]</a>
     </td>
-  </tr>  
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -145,7 +144,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <a href="https://papers.nips.cc/paper/8171-invertibility-of-convolutional-generative-networks-from-partial-measurements-supplemental.zip">[supplementary]</a>
       <a href="https://github.com/fangchangma/invert-generative-networks">[code]</a>
     </td>
-  </tr>  
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -161,7 +160,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <a href="https://github.com/fangchangma/sparse-to-dense.pytorch">[pytorch code]</a>
       <a href="https://github.com/fangchangma/sparse-to-dense">[torch code]</a>
     </td>
-  </tr>  
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -177,7 +176,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <a href="https://github.com/sparse-depth-sensing/sparse-depth-sensing">[code]</a>
       <a href="https://youtu.be/vE56akCGeJQ">[video]</a>
     </td>
-  </tr>  
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -190,7 +189,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br>
       <a href="https://arxiv.org/pdf/1704.02075.pdf">[pdf]</a>
     </td>
-  </tr>  
+  </tr>
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -203,6 +202,6 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br>
       <a href="https://www.researchgate.net/profile/Fangchang_Ma/publication/271548386_Velocity_estimator_via_fusing_inertial_measurements_and_multiple_feature_correspondences_from_a_single_camera/links/58be525ba6fdcc2d14eb5afd/Velocity-estimator-via-fusing-inertial-measurements-and-multiple-feature-correspondences-from-a-single-camera.pdf">[pdf]</a>
     </td>
-  </tr>  
+  </tr>
 
 </table>
