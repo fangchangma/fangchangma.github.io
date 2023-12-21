@@ -23,7 +23,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-stabledreamer.png" style=" vertical-align:middle"/>
+      <img src="images/2023-stabledreamer.jpg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://arxiv.org/abs/2312.02189">StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D</a>
