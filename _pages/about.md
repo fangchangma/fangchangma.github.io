@@ -26,8 +26,8 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <img src="images/2023-stabledreamer.png" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="">StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D</a>
-      <br>Pengsheng Guo, Hans Hao, Adam Caccavale, Alexander G. Schwing, Zhongzheng Ren, Alex Colburn, Edward Zhang, Fangchang Ma
+      <a href="https://arxiv.org/abs/2312.02189">StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D</a>
+      <br>Pengsheng Guo, Hans Hao, Adam Caccavale, Alexander G. Schwing, Zhongzheng Ren, Alex Colburn, Edward Zhang, <u>Fangchang Ma</u>
       <!-- <br> ICCV, 2023 -->
       <br> 
       <a href="https://arxiv.org/abs/2312.02189">[arXiv]</a>
@@ -43,7 +43,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://ziyaerkoc.com/hyperdiffusion/">HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion</a>
-      <br>Ziya Erkoç, ‪<u>Fangchang Ma</u>, Qi Shan, Matthias Nießner, Angela Dai
+      <br>Ziya Erkoç, <u>Fangchang Ma</u>, Qi Shan, Matthias Nießner, Angela Dai
       <br> ICCV, 2023
       <br> 
       <a href="https://arxiv.org/abs/2303.17015">[arXiv]</a>
@@ -58,10 +58,10 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <img src="images/2023-finerecon.jpeg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <!-- <a href="https://xiaoming-zhao.github.io/projects/gmpi/"> -->
+      <a href="https://arxiv.org/abs/2304.01480">
       FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction
-      <!-- </a> -->
-      <br>Noah Stier, Anurag Ranjan, Alex Colburn, Yajie Yan, Liang Yang, ‪<u>Fangchang Ma</u>, Baptiste Angles
+      </a>
+      <br>Noah Stier, Anurag Ranjan, Alex Colburn, Yajie Yan, Liang Yang, <u>Fangchang Ma</u>, Baptiste Angles
       <br> ICCV, 2023
       <br> 
       <a href="https://arxiv.org/abs/2304.01480">[arXiv]</a>
@@ -73,11 +73,11 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2022-eccv-gmpi.png" style=" vertical-align:middle"/>
+      <img src="images/2022-eccv-gmpi.jpg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://xiaoming-zhao.github.io/projects/gmpi/">Generative Multiplane Images: Making a 2D GAN 3D-Aware</a>
-      <br>Xiaoming Zhao, ‪<u>Fangchang Ma</u>, David Güera, Zhile Ren, Alexander Schwing, Alex Colburn
+      <br>Xiaoming Zhao, <u>Fangchang Ma</u>, David Güera, Zhile Ren, Alexander Schwing, Alex Colburn
       <br> ECCV, 2022 <font color="red"><strong>(Oral Presentation)</strong></font>
       <br> 
       <a href="https://arxiv.org/abs/2207.10642">[arXiv]</a>
@@ -89,11 +89,11 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2022-eccv-texturify.png" style=" vertical-align:middle"/>
+      <img src="images/2022-eccv-texturify.jpg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://nihalsid.github.io/texturify/">Texturify: Generating Textures on 3D Shape Surfaces</a>
-      <br>Yawar Siddiqui, Justus Thies, ‪<u>Fangchang Ma</u>, ‪Qi Shan, Matthias Nießner, Angela Dai
+      <br>Yawar Siddiqui, Justus Thies, <u>Fangchang Ma</u>, Qi Shan, Matthias Nießner, Angela Dai
       <br> ECCV, 2022
       <br>
       <a href="https://arxiv.org/abs/2204.02411">[arXiv]</a>
@@ -109,7 +109,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://nihalsid.github.io/retrieval-fuse/">RetrievalFuse: Neural 3D Scene Reconstruction with a Database</a>
-      <br>Yawar Siddiqui, Justus Thies, ‪<u>Fangchang Ma</u>, ‪Qi Shan, Matthias Nießner, Angela Dai
+      <br>Yawar Siddiqui, Justus Thies, <u>Fangchang Ma</u>, Qi Shan, Matthias Nießner, Angela Dai
       <br> ICCV, 2021
       <br>
       <a href="https://arxiv.org/abs/2104.00024">[arXiv]</a>
