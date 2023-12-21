@@ -10,14 +10,33 @@ author_profile: true
 
 <!-- <h3>About Me</h3> -->
 
-I am a research scientist and manager at Apple (Seattle). I lead a CV/ML applied research team, with a focus on neural rendering and 3D generative modeling for AR/VR applications. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
+I am a research scientist and manager at the Video Computer Vision org at Apple, based out of Seattle. I lead an applied research team, with a focus on neural rendering and generative AI for applications in Apple Vision Pro, iPhones, and other platforms. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
 
 <!-- Our team at Apple is actively hiring both research interns and fulltime research scientists. If you have a strong technical background and publication record in CV/ML/graphics, please feel free to reach out.  -->
+
+<h2>Shipped Products</h2>
+I contributed to depth estimation on iPhone Pro, depth estimation on Vision Pro, face reconstruction for Persona (3D Facetime on Vision Pro), among others.
 
 <h2>Research</h2>
 I'm broadly interested in computer vision, machine learning, and computer graphics. Much of my research is about neural rendering, 3D reconstruction, and generative models.
 
 <table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/2023-stabledreamer.png" style=" vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="">StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D</a>
+      <br>Pengsheng Guo, Hans Hao, Adam Caccavale, Alexander G. Schwing, Zhongzheng Ren, Alex Colburn, Edward Zhang, Fangchang Ma
+      <!-- <br> ICCV, 2023 -->
+      <br> 
+      <a href="https://arxiv.org/abs/2312.02189">[arXiv]</a>
+      <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
+      <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
+      <!-- <a href="https://ziyaerkoc.com/hyperdiffusion/">[webpage]</a> -->
+    </td>
+  </tr>
+
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2023-hyperdiffusion.png" style=" vertical-align:middle"/>
@@ -27,7 +46,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br>Ziya Erkoç, ‪<u>Fangchang Ma</u>, Qi Shan, Matthias Nießner, Angela Dai
       <br> ICCV, 2023
       <br> 
-      <a href="https://arxiv.org/abs/2303.17015">[pdf]</a>
+      <a href="https://arxiv.org/abs/2303.17015">[arXiv]</a>
       <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
       <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
       <a href="https://ziyaerkoc.com/hyperdiffusion/">[webpage]</a>
@@ -36,7 +55,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/2023-finerecon.jpg" style=" vertical-align:middle"/>
+      <img src="images/2023-finerecon.jpeg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <!-- <a href="https://xiaoming-zhao.github.io/projects/gmpi/"> -->
@@ -45,7 +64,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br>Noah Stier, Anurag Ranjan, Alex Colburn, Yajie Yan, Liang Yang, ‪<u>Fangchang Ma</u>, Baptiste Angles
       <br> ICCV, 2023
       <br> 
-      <a href="https://arxiv.org/abs/2304.01480">[pdf]</a>
+      <a href="https://arxiv.org/abs/2304.01480">[arXiv]</a>
       <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
       <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
       <!-- <a href="https://xiaoming-zhao.github.io/projects/gmpi/">[webpage]</a> -->
@@ -61,7 +80,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br>Xiaoming Zhao, ‪<u>Fangchang Ma</u>, David Güera, Zhile Ren, Alexander Schwing, Alex Colburn
       <br> ECCV, 2022 <font color="red"><strong>(Oral Presentation)</strong></font>
       <br> 
-      <a href="https://arxiv.org/abs/2207.10642">[pdf]</a>
+      <a href="https://arxiv.org/abs/2207.10642">[arXiv]</a>
       <a href="https://github.com/apple/ml-gmpi">[code]</a>
       <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
       <a href="https://xiaoming-zhao.github.io/projects/gmpi/">[webpage]</a>
@@ -77,7 +96,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br>Yawar Siddiqui, Justus Thies, ‪<u>Fangchang Ma</u>, ‪Qi Shan, Matthias Nießner, Angela Dai
       <br> ECCV, 2022
       <br>
-      <a href="https://arxiv.org/abs/2204.02411">[pdf]</a>
+      <a href="https://arxiv.org/abs/2204.02411">[arXiv]</a>
       <!-- <a href="https://github.com/fangchangma/self-supervised-depth-completion">[code]</a> -->
       <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a>
       <a href="https://nihalsid.github.io/texturify/">[webpage]</a>
@@ -93,7 +112,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br>Yawar Siddiqui, Justus Thies, ‪<u>Fangchang Ma</u>, ‪Qi Shan, Matthias Nießner, Angela Dai
       <br> ICCV, 2021
       <br>
-      <a href="https://arxiv.org/abs/2104.00024">[pdf]</a>
+      <a href="https://arxiv.org/abs/2104.00024">[arXiv]</a>
       <a href="https://github.com/nihalsid/retrieval-fuse">[code]</a>
       <a href="https://youtu.be/HbsUU0YODqE">[video]</a>
       <a href="https://nihalsid.github.io/retrieval-fuse/">[webpage]</a>
@@ -109,7 +128,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br><u>Fangchang Ma</u>, Guilherme Venturelli Cavalheiro, Sertac Karaman
       <br> ICRA, 2019
       <br>
-      <a href="https://arxiv.org/pdf/1807.00275.pdf">[pdf]</a>
+      <a href="https://arxiv.org/pdf/1807.00275.pdf">[arXiv]</a>
       <a href="https://github.com/fangchangma/self-supervised-depth-completion">[code]</a>
       <a href="https://youtu.be/bGXfvF261pc">[video]</a>
     </td>
@@ -124,7 +143,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br>Diana Wofk*, <u>Fangchang Ma*</u>, Tien-Ju Yang, Sertac Karaman, Vivienne Sze
       <br> ICRA, 2019
       <br>
-      <a href="http://fastdepth.mit.edu/2019_icra_fastdepth.pdf">[pdf]</a>
+      <a href="https://arxiv.org/abs/1903.03273">[arXiv]</a>
       <a href="https://github.com/dwofk/fast-depth">[code]</a>
       <a href="https://youtu.be/gRqrYJWyXyI">[video]</a>
       <a href="http://fastdepth.mit.edu/">[webpage]</a>
@@ -151,11 +170,11 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <img src="images/2018-icra-sparse-to-dense.gif" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://arxiv.org/pdf/1709.07492.pdf">Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image</a>
+      <a href="https://arxiv.org/abs/1709.07492">Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image</a>
       <br><u>Fangchang Ma</u>, Sertac Karaman
       <br> ICRA, 2018
       <br>
-      <a href="https://arxiv.org/pdf/1709.07492.pdf">[pdf]</a>
+      <a href="https://arxiv.org/abs/1709.07492">[arXiv]</a>
       <a href="https://youtu.be/vNIIT_M7x7Y">[video]</a>
       <a href="https://github.com/fangchangma/sparse-to-dense.pytorch">[pytorch code]</a>
       <a href="https://github.com/fangchangma/sparse-to-dense">[torch code]</a>
@@ -167,12 +186,12 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <img src="images/2016-iros-sparse-depth-sensing.gif" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://arxiv.org/pdf/1703.01398.pdf">Sparse Depth Sensing for Resource-Constrained Robots</a>
+      <a href="https://arxiv.org/abs/1703.01398">Sparse Depth Sensing for Resource-Constrained Robots</a>
       <br><u>Fangchang Ma</u>, Luca Carlone, Ulas Ayaz, Sertac Karaman
       <br> IROS, 2016
       <br> IJRR (extended version)
       <br>
-      <a href="https://arxiv.org/pdf/1703.01398.pdf">[pdf]</a>
+      <a href="https://arxiv.org/abs/1703.01398">[arXiv]</a>
       <a href="https://github.com/sparse-depth-sensing/sparse-depth-sensing">[code]</a>
       <a href="https://youtu.be/vE56akCGeJQ">[video]</a>
     </td>
@@ -183,11 +202,11 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <img src="images/2014-wafr.png" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://arxiv.org/pdf/1704.02075.pdf">On Sensing, Agility, and Computation Requirements for a Data-gathering Vehicle</a>
+      <a href="https://arxiv.org/abs/1704.02075">On Sensing, Agility, and Computation Requirements for a Data-gathering Vehicle</a>
       <br><u>Fangchang Ma</u>, Sertac Karaman
       <br> WAFR, 2014
       <br>
-      <a href="https://arxiv.org/pdf/1704.02075.pdf">[pdf]</a>
+      <a href="https://arxiv.org/abs/1704.02075">[arXiv]</a>
     </td>
   </tr>
 
