@@ -8,8 +8,7 @@ author_profile: true
 #   - /about.html
 ---
 
-<!-- <h3>About Me</h3> -->
-
+<h2>About Me</h2>
 I am a research scientist and manager at the Video Computer Vision org at Apple, based out of Seattle. I lead an applied research team, with a focus on neural rendering and generative AI for applications in Apple Vision Pro, iPhones, and other platforms. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
 
 <!-- Our team at Apple is actively hiring both research interns and fulltime research scientists. If you have a strong technical background and publication record in CV/ML/graphics, please feel free to reach out.  -->
