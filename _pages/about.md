@@ -9,32 +9,32 @@ author_profile: true
 ---
 
 <h2>About Me</h2>
-I am a research scientist and manager at the Video Computer Vision org at Apple, based out of Seattle. I lead an applied research team, with a focus on neural rendering and generative AI for applications in Apple Vision Pro, iPhones, and other platforms. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
-
-<!-- Our team at Apple is actively hiring both research interns and fulltime research scientists. If you have a strong technical background and publication record in CV/ML/graphics, please feel free to reach out.  -->
+I was a research scientist at Apple, leading an applied research team with a focus on neural rendering and generative AI. I did my Ph.D. at <a href="https://www.mit.edu">MIT</a> and my undergrad at <a href="https://hkust.edu.hk/">HKUST</a>.
 
 <h2>Shipped Products</h2>
-I contributed to depth estimation on iPhone Pro, depth estimation on Vision Pro, face reconstruction for Persona (3D Facetime on Vision Pro), among others.
+<p style="line-height: 1.0;">A number of products that I contributed to:</p>
+<ul style="line-height: 1.0;">
+    <li>Depth estimation on ARKit</li>
+    <li>Depth estimation on Vision Pro</li>
+    <li>Face reconstruction for Persona (3D Facetime on Vision Pro)</li>
+    <li>24MP imaging on iPhone Pro</li>
+</ul>
 
-<h2>Research</h2>
-I'm broadly interested in computer vision, machine learning, and computer graphics. Much of my research is about neural rendering, 3D reconstruction, and generative models.
+<h2>Research Highlights</h2>
+I'm broadly interested in computer vision, machine learning, and computer graphics. Much of my research is about neural rendering, 3D reconstruction, and generative models. A complete list of my publication can be found on my <a href="https://scholar.google.com/citations?hl=en&user=kf07AjoAAAAJ&view_op=list_works" target="_blank">Google Scholar</a>.
 
 <table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
+  <!-- <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2023-stabledreamer.jpg" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://arxiv.org/abs/2312.02189">StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D</a>
       <br>Pengsheng Guo, Hans Hao, Adam Caccavale, Alexander G. Schwing, Zhongzheng Ren, Alex Colburn, Edward Zhang, <u>Fangchang Ma</u>
-      <!-- <br> ICCV, 2023 -->
       <br> 
       <a href="https://arxiv.org/abs/2312.02189">[arXiv]</a>
-      <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
-      <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
-      <!-- <a href="https://ziyaerkoc.com/hyperdiffusion/">[webpage]</a> -->
     </td>
-  </tr>
+  </tr> -->
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -46,13 +46,11 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br> ICCV, 2023
       <br> 
       <a href="https://arxiv.org/abs/2303.17015">[arXiv]</a>
-      <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
-      <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
       <a href="https://ziyaerkoc.com/hyperdiffusion/">[webpage]</a>
     </td>
   </tr>
 
-  <tr style="border: none;">
+  <!-- <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2023-finerecon.jpeg" style=" vertical-align:middle"/>
     </td>
@@ -64,11 +62,8 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br> ICCV, 2023
       <br> 
       <a href="https://arxiv.org/abs/2304.01480">[arXiv]</a>
-      <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
-      <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
-      <!-- <a href="https://xiaoming-zhao.github.io/projects/gmpi/">[webpage]</a> -->
     </td>
-  </tr>
+  </tr> -->
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -102,7 +97,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
     </td>
   </tr>
 
-  <tr style="border: none;">
+  <!-- <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2021-iccv-retrievalfuse.jpg" style=" vertical-align:middle"/>
     </td>
@@ -116,7 +111,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <a href="https://youtu.be/HbsUU0YODqE">[video]</a>
       <a href="https://nihalsid.github.io/retrieval-fuse/">[webpage]</a>
     </td>
-  </tr>
+  </tr> -->
 
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
@@ -180,7 +175,7 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
     </td>
   </tr>
 
-  <tr style="border: none;">
+  <!-- <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
       <img src="images/2016-iros-sparse-depth-sensing.gif" style=" vertical-align:middle"/>
     </td>
@@ -220,6 +215,6 @@ I'm broadly interested in computer vision, machine learning, and computer graphi
       <br>
       <a href="https://www.researchgate.net/profile/Fangchang_Ma/publication/271548386_Velocity_estimator_via_fusing_inertial_measurements_and_multiple_feature_correspondences_from_a_single_camera/links/58be525ba6fdcc2d14eb5afd/Velocity-estimator-via-fusing-inertial-measurements-and-multiple-feature-correspondences-from-a-single-camera.pdf">[pdf]</a>
     </td>
-  </tr>
+  </tr> -->
 
 </table>
